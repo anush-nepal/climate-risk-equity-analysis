@@ -1,0 +1,2 @@
+Processing_Date,Total_Records,Companies,Sectors,Date_Range_Start,Date_Range_End,Climate_Events,Event_Window_Recors,Features_Created
+2025-08-19 21:51:25,90424,45,3,2017-01-04,2024-12-30,7,4319,"['Daily_Return', 'Log_Return', 'Volatility_30d', 'Volatility_90d', 'Avg_Return_30d', 'Drawdown_30d', 'Price_Momentum_30d']"
