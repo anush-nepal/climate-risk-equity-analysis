@@ -22,15 +22,17 @@ Do climate events create abnormal returns in equity markets, and how do differen
 **Disclosure** This analysis was conducted independently with all data collection, statistical testing, and interpretation performed by the author. Claude AI was used for writing structure and presentation.
 
 ## Repository Structure
-├── notebooks/
-│   ├── data_collection.ipynb          # Web scraping and data gathering
-│   ├── data_cleaning_and_feature_engineering.ipynb  # Feature creation and EDA
-│   ├── event_study_analysis.ipynb     # Statistical hypothesis testing
-│   └── conclusions_and_implications.ipynb  # Research synthesis
-├── data/
-│   ├── raw/           # Original datasets
-│   └── processed/     # Cleaned, analysis-ready data
-└── requirements.txt   # Project dependencies
+**notebooks/**
+- `data_collection.ipynb` - Web scraping and data gathering
+- `data_cleaning_and_feature_engineering.ipynb` - Feature creation and EDA  
+- `event_study_analysis.ipynb` - Statistical hypothesis testing
+- `conclusions_and_implications.ipynb` - Research synthesis
+
+**data/**
+- `raw/` - Original datasets
+- `processed/` - Cleaned, analysis-ready data
+
+**requirements.txt** - Project dependencies
 
 ## Statistical Results
 - **Primary hypothesis test**: t-statistic = 6.23, p < 0.001
