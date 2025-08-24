@@ -19,7 +19,7 @@ Do climate events create abnormal returns in equity markets, and how do differen
 - **Analysis**: Event study methodology with statistical hypothesis testing
 - **Tools**: Python, Pandas, SciPy, Matplotlib, Seaborn
 
-**Disclosure** This analysis was conducted independently with all data collection, statistical testing, and interpretation performed by the author. Claude AI was used for writing structure and presentation.
+**Disclosure**: This analysis was conducted independently with all data collection, statistical testing, and interpretation performed by the author. Claude AI was used for writing structure and presentation.
 
 ## Repository Structure
 **notebooks/**
